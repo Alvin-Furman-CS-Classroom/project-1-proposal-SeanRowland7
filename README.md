@@ -86,7 +86,7 @@ _A timeline showing that each module's prerequisites align with the course sched
 | 1      | Propositional Logic | Week 2 | Wednesday, Feb 11  |
 | 2      | Informed Search (A*, IDA*, Beam Search) | Week 3 | Thursday, Feb 26 |
 | 3      | Advanced Search/Optimization | Week 5.5 | Thursday, March 19 |
-| 4      | Game Theory (Nash Equilibrium) | Week 7 (1.5 weeks) | Thursday, April 2 |
+| 4      | Game Theory (Nash Equilibrium) | Week 7 | Thursday, April 2 |
 | 5      | Reinforcement Learning | Week 10 | Thursday, April 16 |
 
 ## Coverage Rationale
